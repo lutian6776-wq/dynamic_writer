@@ -1,0 +1,7 @@
+# Phase 2 AI Few-Shot Synthesis Dependencies (PyTorch CUDA + FontDiffuser)
+# Install torch & torchvision from https://download.pytorch.org/whl/cu126 (or cu128)
+diffusers>=0.25.0
+accelerate>=0.30.0
+einops>=0.7.0
+safetensors>=0.4.0
+huggingface-hub>=0.24.0
